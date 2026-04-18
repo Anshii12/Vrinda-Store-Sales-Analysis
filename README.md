@@ -40,9 +40,8 @@ This project involves a comprehensive analysis of **Vrinda Store's** 2022 sales 
 
 ## How to View the Project
 1.  **Dashboard:** View the `Vrinda_Store_Dashboard.png` in the repository for a visual summary or the dashboard from readme file.
-2.  **Excel Workbook:** Download `Vrinda_Store_Report.xlsx` to interact with the slicers and pivot tables.
+2.  **Excel Workbook:** Download workbook to interact with the slicers and pivot tables.
 <img width="1851" height="685" alt="image" src="https://github.com/user-attachments/assets/196f90da-d5dc-428a-b055-6df778dd9129" />
-
 
 ---
 
